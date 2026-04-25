@@ -1,4 +1,5 @@
 # 💫 About Me:
+# Kolinco Mondol Akash
 <br>🎓 BSc in Computer Science & Engineering<br>🧬 Focus on gene expression & data-driven healthcare research<br>💼 IT Intern (Networking, system support, MikroTik)<br>🛠️ Skills: Python, C/C++, JavaScript, SQL, Linux, Git<br>🚀 Projects: Healthcare Network System, BanglaLit,<br>🌱 Exploring: AI in healthcare 
 
 
