@@ -75,12 +75,3 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=extraneus&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=extraneus&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-💡 *Learning continuously. Practicing ethically. Building tools. Securing systems.*
-
-![](https://komarev.com/ghpvc/?username=extraneus&icon=0&color=0)
