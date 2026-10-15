@@ -1,6 +1,6 @@
-# 👨‍💻 Kolinco Mondol Akash | Cybersecurity Enthusiast
+# 👨‍💻 Kolinco Mondol Akash 
 
-🔐 Cybersecurity Enthusiast | Aspiring Penetration Tester | Linux & Networking
+🔐 Cybersecurity Enthusiast | Penetration Tester | Linux & Networking
 
 🎓 BSc in Computer Science & Engineering  
 🛡️ Exploring Penetration Testing, Vulnerability Assessment & Ethical Hacking  
@@ -9,7 +9,6 @@
 💻 Programming: Python, C/C++, JavaScript, SQL & Bash  
 🔎 Interested in Network Security, Web Application Security & Linux Privilege Escalation  
 🚀 Building Security Tools, Practicing CTFs & Learning Through Hands-on Labs  
-🧬 Research Interests: AI in Healthcare & Data-Driven Research  
 
 ## 🌐 Connect With Me
 
